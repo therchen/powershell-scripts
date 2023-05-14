@@ -1,7 +1,3 @@
-$inputFolder = "C:\Users\timhw\OneDrive"
-$outputFolder = "E:\Organized Photos"
-$folderSizeLimit = 5
-
 <#
 This script allows you to define a folder ($inputFolder) to search for media files (as defined in the $items variable below) 
 The script will search $inputFolder + sub-folders for media files
